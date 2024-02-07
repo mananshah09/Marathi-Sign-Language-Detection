@@ -1,0 +1,3 @@
+https://drive.google.com/drive/folders/143heRjSgnSmFDVc_uhIfq6bzoTZ8Xlay
+
+Convert this augmented dataset into SkinMask Dataset using SkinMask.py for better accuracy and recognition. We have not provided SkinMask Dataset due to privacy issues.
