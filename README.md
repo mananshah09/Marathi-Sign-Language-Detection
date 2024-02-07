@@ -1,2 +1,2 @@
-# Marathi-Sign-Language-Detection
-Marathi Sign Language Detection
+# Sign Language Recognition  For Marathi Language
+ The Proposed System detects the gestures of mute people in real time and  converts it to text so they can converse with other people.  Sign language recognition refers to the conversion of these gestures into  alphabets of Marathi language. Engineered a tailored CNN Linear and Sequential Model, curating a data set of 52 gestures comprising 10,000+ images. Thus, conversion of sign language into  alphabets by an algorithm or a model can help bridge the gap between people  with hearing or speaking impairment and the rest of the world.
